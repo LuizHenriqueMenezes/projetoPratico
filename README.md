@@ -4,21 +4,29 @@
 
 A LHM Calculadoras é a mais nova rede de calculadoras para estudantes do ensino fundamental e médio. Funciona assim: O usuário escolhe qual funcionalidade ele deseja executar (opções: soma, multiplicação, subtração, divisão, radiciação e exponenciação), após escolher ele coloca os valores pedidos, e executa a conta. Também existe a função de sair do programa. Conforma exemplos abaixo:
 
+## Menu principal:
 ![Foto do menu principal](1.jpeg)
 
-![Foto de exemplo da função soma:](2soma.jpeg)
+## Exemplo da função soma:
+![Foto de exemplo da função soma:](soma.jpeg)
 
-![Foto do exemplo da função subtração:](3sub.jpeg)
+## Exemplo da função subtração:
+![Foto do exemplo da função subtração:](sub.jpeg)
 
-![Foto do exemplo da função multiplicação](4multi.jpeg)
+## Exemplo da função multiplicação: 
+![Foto do exemplo da função multiplicação](multi.jpeg)
 
-![Foto do exemplo da função dividir:](6dividir.jpeg)
+## Exemplo da função dividir:
+![Foto do exemplo da função dividir:](dividir.jpeg)
 
-![Foto do exemplo da função radiciação](7radi.jpeg)
+## Exemplo da função radiciação:
+![Foto do exemplo da função radiciação](radi.jpeg)
 
-![Foto do exemplo da função exponenciação](8ex,jpeg)
+## Exemplo da função exponenciação:
+![Foto do exemplo da função exponenciação](ex.jpeg)
 
-![Foto do exemplo da função sair do programa](10x.jpeg)
+## Exemplo da função sair do programa:
+![Foto do exemplo da função sair do programa](x.jpeg)
 
 ## Download
 
